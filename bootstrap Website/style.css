@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
+#header{
+  background-color: orangered;
+}
+
+#uList {
+  margin-top: 17px;
+}
+#logo {
+  font-size: 2rem;
+  margin-top: 5px;
+  font-family: 'Roboto Slab', serif;
+}
+#uList li {
+  list-style: none;
+}
+#uList li a {
+  margin: 20px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  padding: 15px 10px;
+  transition: all 0.2s linear;
+  
+
+}
+#uList li a:hover {
+    background: #ff793f;
+    
+}
+#banner{
+    height: 50vh;
+    width: 100%;
+    background-image: url("./bannerBG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#sectionHeading{
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+#box img{
+    width: 250px;
+    height: 200px;
+    border-radius: 33px;
+   margin-left: 53px;
+    
+}
+
+h3{
+    text-align: center;
+    margin-top: 5px;
+}
+#para{
+    margin-left: 80px;
+
+}
+#ok{
+   
+    margin-left: 120px;
+}
+.supporter{
+    background-color: orangered;
+    width: 100%;
+    margin-top: 20px;
+}
+#box2 img{
+    width: 133px;
+    height: 103px;
+    border-radius: 66px;
+    margin-left: 66px;
+  
+    
+}
+h4{
+    text-transform: capitalize;
+    margin-left: 80px;
+}
+
+#footer{
+    background-color: grey;
+   
+}
+#mainGo{
+    text-align: center;
+    margin-top: 10px;
+font-weight: bold;
+}
